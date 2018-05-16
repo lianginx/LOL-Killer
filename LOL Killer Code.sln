@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LOL Killer", "WindowsServiceTest1\LOL Killer.csproj", "{49D7B79C-3107-487D-9A15-E0CC4406E9A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF UI", "WpfApp1\WPF UI.csproj", "{10661D6E-6D70-49F6-B1CB-AAC4A506A252}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49D7B79C-3107-487D-9A15-E0CC4406E9A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49D7B79C-3107-487D-9A15-E0CC4406E9A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49D7B79C-3107-487D-9A15-E0CC4406E9A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49D7B79C-3107-487D-9A15-E0CC4406E9A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10661D6E-6D70-49F6-B1CB-AAC4A506A252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10661D6E-6D70-49F6-B1CB-AAC4A506A252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10661D6E-6D70-49F6-B1CB-AAC4A506A252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10661D6E-6D70-49F6-B1CB-AAC4A506A252}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16FBCBA9-B444-4CE7-B36B-F3455563D3D2}
+	EndGlobalSection
+EndGlobal
